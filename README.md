@@ -1,7 +1,10 @@
-#Computer Vision Team 3
+# Computer Vision Team 3 
+**LOW COST INTELLIGENT VISION SYSTEM FOR REAL-TIME SCENE UNDERSTANDING ON STANDARD HARDWARE**
+
 - Alex Nugraha Setia ( 241012000064 )
 - Junaedy Susant0 ( 241012000073 )
 - Madi Romadhon ( 241012000066 )
+
 
 # Universitas Pamulang
 # Magister Teknik Informatika
