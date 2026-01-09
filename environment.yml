@@ -1,0 +1,34 @@
+name: cv
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - absl-py
+      - attrs
+      - cffi
+      - contourpy
+      - cycler
+      - flatbuffers
+      - fonttools
+      - jax
+      - jaxlib
+      - kiwisolver
+      - matplotlib
+      - mediapipe
+      - ml-dtypes
+      - numpy
+      - opencv-contrib-python
+      - opencv-python
+      - opt-einsum
+      - packaging
+      - pillow
+      - protobuf
+      - pycparser
+      - pyparsing
+      - python-dateutil
+      - scipy
+      - six
+      - sounddevice
+      - pynput
